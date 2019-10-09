@@ -1,3 +1,4 @@
-user.userName=dev
-user.sex=hdskahdkas
-user.age=18
+user
+  userName: dev
+  sex: hdskahdkas
+  age: 18
